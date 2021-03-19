@@ -1,6 +1,6 @@
 # portfolio_2-copywebdesign-
 
-https://bullkhan.github.io/portfolio_2-ajax-masorny/.
+https://oktobat.github.io/rhkr/
 
 ajax & masorny 충돌
 
